@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 AI Study Assistant
 
 An interactive AI-powered web app that helps students study smarter by summarizing notes, answering questions, generating flashcards, and creating quizzes — all from uploaded documents.
@@ -28,3 +29,7 @@ An interactive AI-powered web app that helps students study smarter by summarizi
    ```bash
    git clone https://github.com/yourusername/ai-study-assistant.git
    cd ai-study-assistant
+=======
+# Ai-Study-assistant
+AI-powered app to summarize notes, answer questions, generate flashcards, and quizzes from study material.
+>>>>>>> 8f3682b1c2b4c7e4b6551a0310bf87e6e28e9004
